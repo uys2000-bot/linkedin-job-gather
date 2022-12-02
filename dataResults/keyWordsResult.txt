@@ -1,0 +1,216 @@
+ : 1187324
+metaverse : 3520
+marketing : 1104
+management : 810
+sales : 788
+research : 589
+communication : 579
+web : 407
+access : 356
+training : 336
+collaboration : 334
+organization : 330
+leadership : 299
+programming : 254
+hiring : 246
+recruiting : 240
+agile : 210
+communication skills : 204
+email : 196
+focus : 189
+planning : 186
+ai : 165
+storytelling : 160
+feedback : 154
+social media : 147
+javascript : 146
+testing : 141
+security : 138
+project management : 136
+python : 135
+responsibility : 132
+respect : 128
+writing : 119
+business development : 117
+presentations : 115
+finance : 113
+ip : 111
+presenting : 107
+problem-solving : 98
+collaboration skills : 89
+creativity : 88
+excel : 81
+instagram : 80
+presentation : 80
+reach : 78
+software engineering : 74
+graphics : 73
+java : 73
+reports : 65
+interpersonal : 65
+twitter : 64
+prioritization : 62
+coding : 59
+flexibility : 59
+html : 57
+css : 57
+negotiation : 50
+influence : 50
+php : 47
+evaluation : 47
+attention to detail : 46
+sql : 45
+ios : 44
+speaking : 44
+written communication : 41
+scrum : 41
+problem solving : 40
+linux : 39
+teamwork : 39
+facebook : 38
+windows : 38
+photoshop : 36
+time management : 36
+positive attitude : 36
+interpersonal skills : 36
+machine learning : 35
+powerpoint : 32
+debugging : 32
+brainstorming : 32
+seo : 31
+motivation : 30
+organizational skills : 30
+decision-making : 28
+open source : 27
+public speaking : 27
+verbal communication : 27
+mentoring : 27
+slack : 27
+forms : 26
+web development : 26
+word : 25
+cms : 25
+updates : 25
+confidence : 25
+conceptual : 25
+coaching : 24
+analyzing : 24
+mysql : 22
+emotional intelligence : 22
+supervision : 22
+ux design : 22
+summarizing : 21
+onboarding : 21
+salesforce : 20
+administrative : 20
+decision making : 20
+kanban : 19
+css  : 18
+reliability : 18
+ms office : 17
+illustrator : 16
+graphic design : 16
+clarity : 15
+teaching : 15
+listening : 15
+documenting : 15
+data science : 15
+swift : 14
+writing skills : 14
+web design : 13
+data analysis : 12
+outlook : 11
+docs : 11
+technical skills : 11
+project management skills : 11
+journalism : 10
+indesign : 10
+dream : 10
+team building : 10
+scheduling : 10
+acting : 10
+rules : 9
+accountability : 9
+analytical thinking : 9
+negotiating : 9
+soft skills : 9
+data structures : 8
+professionalism : 8
+critical thinking : 8
+zoom : 8
+sheets : 7
+spreadsheets : 7
+empathy : 7
+logistics : 7
+creative thinking : 7
+detail-oriented : 7
+product knowledge : 7
+people management : 7
+oracle : 6
+wordpress : 6
+self-motivation : 6
+content management systems : 5
+chef : 5
+ui design : 5
+google drive : 4
+technical writing : 4
+lan : 4
+office management : 4
+agile/scrum : 4
+filing : 4
+patience : 4
+zendesk : 4
+slides : 3
+sap : 3
+unix : 3
+outsourcing : 3
+empowerment : 3
+persistence : 3
+data gathering : 3
+strategic planning : 3
+computer skills : 3
+social skills : 3
+erp : 3
+notion : 3
+relationship building : 3
+google sheets : 2
+filters : 2
+cisco : 2
+dns : 2
+ubuntu : 2
+honesty : 2
+budgeting : 2
+adaptability : 2
+skype : 2
+ability to work under pressure : 2
+marketing management : 2
+macros : 1
+google slides : 1
+ms access : 1
+payroll : 1
+payment processing : 1
+customer relationship management : 1
+ruby on rails : 1
+system administration : 1
+vendor management : 1
+dhcp : 1
+wan : 1
+advanced computer skills : 1
+counseling : 1
+cross-cultural communication : 1
+mediation : 1
+phone calls : 1
+delegating : 1
+compromising : 1
+giving feedback : 1
+servant leadership : 1
+team support : 1
+delegation : 1
+conflict resolution : 1
+effective communication : 1
+data entry : 1
+ms excel : 1
+asana : 1
+eq : 1
+interior design : 1
+public relations : 1

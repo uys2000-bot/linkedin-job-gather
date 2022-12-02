@@ -1,0 +1,491 @@
+MS Office
+Word
+Excel
+Outlook
+Powerpoint
+OneNote
+Access
+Google Drive
+Docs
+Sheets
+Slides
+Forms
+Spreadsheets
+Excel
+Google Sheets
+OpenOffice Calc 
+pivot tables
+comparative analyses
+link to database
+macros
+sensitivity tables
+vertical lookups
+Email
+mail merge
+filters
+folders
+rules
+Presentations
+Slideshows
+Powerpoint
+Google Slides
+OpenOffice Impress
+Tableu
+Database Management
+MS Access
+Oracle
+Teradata
+IBM DB2
+MySQL
+SQL
+Quickbooks
+Expense tracking
+accounts payable
+invoicing
+cash flow management
+employee time tracking
+reports
+payroll
+Social Media
+Facebook
+Twitter
+Instagram
+talk about giveaways
+post engagement metrics
+reach
+customer interaction
+Web
+HTML
+CSS
+Javascript
+WordPress
+Joomla
+Content Management Systems
+CMS
+code libraries
+WordPress
+Yoast
+SEO
+technical writing
+journalism
+research
+ghostwriting
+Graphics
+Photoshop
+Illustrator
+InDesign
+Acrobat
+Corel Draw
+HTML
+CSS 
+Enterprise Systems
+Automated Billing Systems
+Payment Processing
+Customer Relationship Management
+Salesforce
+Oracle Netsuite
+Enterprise Resource Planning
+Oracle
+SAP
+Business Intelligence
+Business Continuity Planning
+Software Skills
+Java
+PHP
+MySQL
+SQL
+C#
+JavaScript
+C++
+Python
+iOS
+Swift
+Ruby on Rails
+Hardware Skills
+System administration
+network configuration
+software installation
+security
+Cisco
+tech support
+updates
+project management
+research
+vendor management
+TCI
+IP
+DNS
+DHCP
+WAN
+LAN
+Windows
+Linux
+Unix
+Ubuntu
+virtualized networks
+network automation
+cloud management
+AI
+machine learning
+Advanced Computer Skills
+Web development
+open source
+data structures
+coding
+security
+debugging
+Clarity
+Collaboration
+Confidence
+Counseling
+Cross-cultural communication
+Diplomacy
+Empathy
+Feedback
+Friendliness
+Leadership
+Mediation
+Negotiation
+Nonverbal communication
+Open-mindedness
+Phone calls
+Presentation
+Problem sensitivity
+Public speaking
+Summarizing
+Teaching
+Verbal communication
+Written communication
+Metaverse
+dream
+Recruiting
+hiring
+training
+mentoring
+coaching
+onboarding
+disciplining
+getting buy-in
+team building
+Management
+office management
+finance
+policy deployment
+delegating
+planning
+strategic thinking
+Collaboration Leadership Skills
+Analyzing problems
+brainstorming solutions
+compromising
+defining roles
+facilitating discussion
+employee engagement
+Prioritizing tasks
+research
+ethical decision making
+team decision making
+problem analysis
+consensus-building
+Time Management
+Goal setting
+self-awareness
+prioritization
+focus
+self-motivation
+outsourcing
+stress management
+Persuasion
+Sales
+speaking
+listening
+empathy
+emotional intelligence
+empowerment
+Psychological Leadership Skills
+Judging character
+negotiation
+flexibility
+motivation
+persistence
+morale-building
+Problem Solving
+Perceptiveness
+data gathering
+fact finding
+problem analysis
+brainstorming
+research
+test development
+testing
+evaluation
+Ethical Leadership Skills
+Accountability
+professionalism
+honesty
+judgement
+Communication
+Active listening
+speaking
+receiving feedback
+storytelling
+facilitating conversations
+giving presentations
+PowerPoint
+Charisma
+listening
+empathy
+conflict management
+Motivating Employees
+Providing rewards
+giving recognition
+giving feedback
+receiving feedback
+evaluating performance
+setting expectations
+Positive Attitude
+Empathy
+compassion
+diplomacy
+good naturedness
+self confidence
+Creative Thinking Skills
+Lateral thinking
+brainstorming
+listening to ideas
+open-mindedness
+Lean thinking
+strategic planning
+scheduling
+Scrum
+Computer Skills
+email
+writing
+spreadsheets
+Supporting Employees
+Listening
+keeping promises
+compassion
+logistics
+Lean Thinking
+Value stream mapping
+kanban
+pokayoke
+policy deployment
+5S
+Six Sigma
+inventory reduction
+setup reduction
+Agile/Scrum
+Meeting facilitation
+Agile planning
+enforcing rules
+shielding the team
+servant leadership
+removing impediments
+Team Leadership Skills
+Communication
+organization
+supervision
+respect
+influence
+honesty
+team support
+logistics
+delegation
+giving recognition
+
+Administrative
+Analyzing
+Assessment and evaluation
+Attention to detail
+Conceptual
+Creative thinking
+Critical thinking
+Decision-making
+Documenting
+Identifying problems
+Research
+Strategic thinking
+
+Filing
+Record keeping
+Stock inventory
+
+Analytical Thinking
+Leadership
+Budgeting
+Communication
+Hiring
+Interpersonal
+Collaboration & Teamwork
+Conceptual Thinking
+Finance
+Conflict Resolution
+Collaboration skills
+Logistics
+Delegation
+Coaching
+Business Development
+Negotiating
+Organization
+Planning
+Presenting
+Technical Skills
+Administrative Skills
+
+Effective communication
+Teamwork
+Collaboration
+Persuasion and influencing skills
+Reliability
+Respectfulness
+Tolerance
+Diplomacy
+Leadership
+Mediation
+Self-motivation
+
+Social skills
+Interpersonal skills
+Communication skills
+Charasmaticness
+Active listening skills
+Interpersonal relations
+Social competence
+Soft skills
+
+Detail-oriented
+Communication
+VOIP phone systems
+Data entry
+Typing >80 WPM 
+
+Attention to Detail
+Improving Customer Experience
+Building Customer Loyalty 
+Positive Attitude
+Bilingual Customer Support
+Complaint Resolution
+Communication
+Patience
+Organizational Skills
+Critical Thinking Skills
+Product Knowledge
+Cross Selling
+Up-Selling
+Service-Based Selling
+Telesales
+Dixa
+ERP
+Freshdesk
+Jira Service Desk
+MyTalk
+Salesforce
+Talkdesk
+Zendesk
+MS Excel
+PowerPoint
+Word
+Microsoft Office Skills
+
+Productivity systems
+Agile
+Lean SixSigma
+Adaptability
+Writing skills
+Project management skills
+Organizational skills
+Stress management
+Productivity tool management
+JAVA
+Asana
+Zoom
+file sharing
+Skype
+Notion
+Slack
+Creativity skills
+Leadership
+Dependability
+Responsibility
+
+Communication skills
+EQ
+Patience
+Nonverbal communication
+Deescalating
+Open mindedness
+Tolerance
+Brainstorming
+Compromising
+Diplomacy
+Empathy
+
+Communication
+Decision making
+Leadership
+Relationship building
+Mediation
+Problem-solving
+Teamwork / Collaboration
+Negotiation
+Listening
+
+Ability to work under pressure
+Adaptability
+Creativity
+Dependability
+Patience
+Responsibility
+Self-motivation
+
+Academic Career
+Acting
+Bartending
+Culinary Career
+Chef
+Cook
+Data Analysis
+Data Science
+Graphic Design
+Interior Design
+Management
+Marketing
+Marketing Management
+Programming
+Public Relations
+Sales
+Software Engineering
+Teaching
+UX / UI Design
+UX Design
+UI Design
+Visual Art
+Web Design
+Writing
+
+Analytical Thinking
+People Management
+Business Knowledge
+Leadership
+Budgeting
+Communication
+Hiring
+Interpersonal
+Collaboration & Teamwork
+Teamwork
+Collaboration
+Conceptual Thinking
+Finance
+Collaboration skills
+Logistics
+Delegation
+Coaching
+Business Development
+Negotiating
+Organization
+Planning
+Presenting
+Technical Skills
+Administrative Skills

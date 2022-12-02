@@ -1,0 +1,5 @@
+Veri çekme Tarihi : Çarşamba 16 Kasım 2022 10:20:00 Öğleden Önce +03 (Wed 16 Nov 2022 10∶20∶00 AM +03)
+Çekilen Veri Sayısı : 1000
+Alınan Veri Resim Sayısı : 2000
+Taranan KeyWord Sayısı : 491
+En Çok Kullanınlan Ilk 3 KeyWord Sayıları : 3520 (Metaverse), 1104 (marketing), 810 (management) 
